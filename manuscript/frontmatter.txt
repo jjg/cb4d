@@ -20,6 +20,6 @@ Anyone who is interested in selecting a computer specifically for open-source so
 
 # Conventions used in this book
 Commands that should be typed literally are displayed in "code form" as shown here:
-        sudo enter-chroot -c /media/removeable/usb32/chroots/
+`sudo enter-chroot -c /media/removeable/usb32/chroots/
 
 
