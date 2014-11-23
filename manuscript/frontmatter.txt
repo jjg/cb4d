@@ -2,8 +2,24 @@
 
 # Introduction
 
+The Chromebook was introduced as an inexpensive laptop computer designed to run web-based applications.  Over the years it has evolved beyond both these defining qualities, and through not-quite-manufacturer-supported methods it is possible to use a Chromebook as a true general-purpose computer.
+
+
 # Why Bother?
 
-# Who is this book for
+With the wide assortment of computers avaliable that have been designed to run more flexible operations systems why would anyone want to own a device that is more limited by design?  One reason is price: the average cost of a new Chromebook is less than $500.00 USD, with some models costing as little as $200.00 USD.  But based on price alone there may be more attractive options.
+
+However the Chromebook offers more to the aspiring or professional software developer.  Chromebooks on average tend to be more durable and well-designed compared to similar-priced laptops.  They are also often optimized for low-power operation which means longer battery life and less fan noise (some models have no fan at all).  Additionally as Chrome OS is Linux-based, all Chromebooks are inherently Linux-compatible (unlike many laptop computers which often have components like network cards that are difficult or even impossible to get working under Linux).
+
+There are many other more complex or specific reasons to consider a Chromebook for software development that we'll discuss throughout the rest of this book.
+
+
+# Who this book is for
+Anyone who is interested in selecting a computer specifically for open-source software development or considering a secondary machine to dedicate to software development use.  Additionally anyone interested in learning more about what can be done with a Chromebook beyond browsing the web and using Google applications.
+
 
 # Conventions used in this book
+Commands that should be typed literally are displayed in "code form" as shown here:
+        sudo enter-chroot -c /media/removeable/usb32/chroots/
+
+
