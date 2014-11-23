@@ -1,9 +1,11 @@
-# Chapter 4: Developing in the Cloud
+-# Part 2: Linux Development with Crouton
 
-## Terminal.com
+# Chapter 4: Crouton
 
-## Codebender
+## What is Crouton
 
-## Visual Studio
+## Hardware Considerations
 
-## That database Web App I can't remember
+## Installing Crouton
+
+## Troubleshooting

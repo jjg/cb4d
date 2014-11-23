@@ -1,13 +1,9 @@
--# Part 1: Software Development under Chrome OS 
+# Chapter 3: Developing in the Cloud
 
-# Chapter 3: Developing with Chrome Web Apps
+## Terminal.com
 
-## The Caret Editor
+## Codebender
 
-## Working with Web API's with Postman
+## Visual Studio
 
-## Unnamed tool for uploading stuff
-
-## Secure Shell - the Web App
-
-## Good-old-fashioned VNC & RDP
+## That database Web App I can't remember

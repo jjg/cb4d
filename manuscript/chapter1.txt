@@ -1,9 +1,7 @@
-# Chapter 1
+# Chapter 1: What is a Chromebook
 
-## Introduction
+## Chrome OS
 
-## Why Bother?
+## Chrome OS vs. regular Linux
 
-## Who is this book for
-
-## Conventions used in this book
+## Choosing a Chromebook
