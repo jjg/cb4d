@@ -1,13 +1,7 @@
--# Part 1: Software Development under Chrome OS 
+# Chapter 2: What is a Chromebook
 
-# Chapter 2: Developing with Chrome Web Apps
+## Chrome OS
 
-## The Caret Editor
+## Chrome OS vs. regular Linux
 
-## Working with Web API's with Postman
-
-## Unnamed tool for uploading stuff
-
-## Secure Shell - the Web App
-
-## Good-old-fashioned VNC & RDP
+## Choosing a Chromebook

@@ -1,5 +1,11 @@
-# Chapter 5: Linux Development Tools
+-# Part 2: Linux Development with Crouton
 
-## VI
+# Chapter 5: Crouton
 
-## Etc.
+## What is Crouton
+
+## Hardware Considerations
+
+## Installing Crouton
+
+## Troubleshooting

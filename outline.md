@@ -1,25 +1,28 @@
-* Introduction
+* Chapter 1: Introduction
 	* Why bother?
-	* What is a Chromebook
-	* ChromeOS vs. Linux
+	* Who is this book for?
+	* Conventions used in this book
+* Chapter 2: What is a Chromebook
+	* Chrome OS
+	* ChromeOS vs. standard Linux
 	* Choosing a Chromebook
 * Part 1 - Developing on ChromeOS 
-	* Working locally with Chrome Web Apps
+	* Chapter 3: Working locally with Chrome Web Apps
 		* The Caret Editor
 		* Secure Shell - the web app
   	* Good old-fashioned VNC & RDP
-  * Developing in the cloud
+  * Chapter 4: Developing in the cloud
 		* Terminal.com
 		* Codebender
 		* Visual Studio in the cloud
 		* That cloud-based database tool 
 * Part 2 - Linux development with Crouton
-	* Crouton
+	* Chapter 5: Crouton
 		* What is Crouton
 		* Hardware considerations
 		* Instaling crouton
 		* Troubleshooting
-	* Linux Development Tools 
+	* Chapter 6: Linux Development Tools 
 		* VI
 		* Etc.
 * Part 3 - Leaving ChromeOS Behind
