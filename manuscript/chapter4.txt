@@ -1,0 +1,11 @@
+-# Part 2: Linux Development with Crouton
+
+# Chapter 4: Crouton
+
+## What is Crouton
+
+## Hardware Considerations
+
+## Installing Crouton
+
+## Troubleshooting
